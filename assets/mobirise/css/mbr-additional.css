@@ -1831,6 +1831,33 @@ section.lazy-placeholder:after {
 .cid-s1wWh5OlFJ .card-title {
   text-align: center;
 }
+.cid-s1zDczkUoo {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-s1zDczkUoo .title {
+  margin-bottom: 2rem;
+}
+.cid-s1zDczkUoo .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s1zDczkUoo a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-s1zDczkUoo a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s1zDczkUoo textarea.form-control {
+  min-height: 188px;
+}
+.cid-s1zDczkUoo H2 {
+  color: #767676;
+}
+.cid-s1zDczkUoo LABEL {
+  color: #767676;
+}
 .cid-s1z2PbypDN {
   padding-top: 90px;
   padding-bottom: 75px;
